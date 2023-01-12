@@ -1,0 +1,11 @@
+first off all install git
+and create the folder and open the git base
+Ste[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C and create the folder then right click then open the git base...
+Step 1.. git config--global
+         git config--global[A user name-----[B[D[D[D[D[D[D[D[D[D[D[D[D[D[Duseer gmail-----
+Step 2.. first of all git clone URL
+         cat >folder name
+         file create
+         git add . and file name
+         git commit - m"-----------"
+         git push
